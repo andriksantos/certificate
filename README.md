@@ -3,15 +3,19 @@ Official website where i show my gallery of certifications... A computer scienti
 (* = not included)
 
 AS
-https://andriksantos.github.io | @andrik_rsm
+## Web Site
+[Andrik Santos](https://andriksantos.github.io)
+
+## Social Network
+- [@andrik_rsm]()
+- []()
 
 
-Credits:
+## Credits:
+  - Icons:
+    - Font Awesome (fontawesome.io)
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Poptrox (github.com/ajlkn/jquery.poptrox)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- Other:
+  - jQuery (jquery.com)
+  - Poptrox (github.com/ajlkn/jquery.poptrox)
+  - Responsive Tools (github.com/ajlkn/responsive-tools)
