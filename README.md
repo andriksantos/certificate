@@ -1,15 +1,21 @@
+<div align="center">
+<img width="400px;" src="images/Logos/arsm.jpg" alt="Andrik Santos">       
+</div>
+
+---
+
+## About
+__Andrik Santos - Certificates__
 Official website where i show my gallery of certifications... A computer scientist with certain skills such as Web Development, Computer Security, Applications Development and Graphic Design, apart from that, I like to optimize processes, always on the way to innovation
 
-(* = not included)
-
-AS
 ## Web Site
 [Andrik Santos](https://andriksantos.github.io)
 
 ## Social Network
-- [@andrik_rsm]()
-- []()
-
+- [Facebook]()
+- [Instagram]()
+- [Twitter]()
+- [Linkedin]()
 
 ## Credits:
   - Icons:
