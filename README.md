@@ -4,9 +4,18 @@
 <br>
 
 
-<a href="https://img.shields.io/github/license/andriksantos/certificate">
-    <img src="https://img.shields.io/github/license/andriksantos/certificate?style=plastic" alt="Version">
+<a href="https://github.com/andriksantos/certificate/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/andriksantos/certificate" alt=License">
 </a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/Version-1.0-brightgreen" alt="Version">
+</a>
+
+<a href="https://andriksantos.github.io">
+    <img src="https://img.shields.io/badge/Author-AndrikSantos-green" alt="Author">
+</a>
+
 
 
 </div>
@@ -21,10 +30,10 @@ Official website where i show my gallery of certifications... A computer scienti
 [Andrik Santos](https://andriksantos.github.io)
 
 ## Social Network
-- [Facebook]()
-- [Instagram]()
-- [Twitter]()
-- [Linkedin]()
+- [Facebook](https://www.facebook.com/andrik.rsm)
+- [Instagram](https://www.instagram.com/andriksantos12)
+- [Twitter](https://www.twitter.com/andrik_rsm)
+- [Linkedin](https://www.linkedin.com/in/andriksantos)
 
 ## Credits:
   - Icons:
